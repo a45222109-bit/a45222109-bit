@@ -1,21 +1,18 @@
-# Abd El Rahman Ashraf | Software Engineer & AI Specialist 🚀
+# Abd El Rahman Ashraf 👋
 
-Focused on constructing scalable system architectures, optimizing computational logic, and orchestrating advanced AI workflows. Driven by core software engineering principles, structural problem-solving, and continuous technical efficiency.
-
----
-
-### 🛠️ Production Tech Stack & Core Competencies
-* **Backend & Scripting**: Python 🐍 (Core architecture, automation scripts, and logical system modeling).
-* **AI & Prompt Engineering**: Advanced Prompt Engineering paradigms, Large Language Model (LLM) workflows, and integrated AI automation.
-* **Web Infrastructure**: JavaScript development for building interactive frontends and full-stack integration.
-* **Version Control & Dev-Ops**: Git, GitHub (Version tracking, branching, and architectural repository management).
-* **Engineering Methodology**: Advanced debugging, algorithmic logic refinement, and diagnostic testing via OnlineGDB.
-* **Professional Communication**: Technical, career-oriented English protocols deployed in global tech environments.
+High school student from Egypt, focused on software development, logic, and AI solutions. 
 
 ---
 
-### 🧠 Strategic Systems & Data Analytics
-* **Algorithmic Strategies**: Analyzing tactical positioning, game theory, and structural pattern recognition in high-level **Chess**.
-* **Data Analytics**: Dissecting data-driven metrics, performance profiles, and historical records within international football.
+### 🛠️ Tech Stack & Skills
+* **Languages:** Python, JavaScript
+* **AI:** Prompt Engineering & LLM workflows
+* **Tools:** Git, GitHub, OnlineGDB
+* **Languages:** Professional English
 
-*"Code is temporary; sound architectural design and engineering principles are permanent."* ⚡
+### 🧠 Interests
+* **Chess:** Analyzing strategic patterns and competitive rankings.
+* **Football:** Tracking global statistics and historical data.
+
+---
+*"Code is temporary, logic is permanent."* ⚡
