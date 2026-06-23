@@ -1,0 +1,7 @@
+Budget =600
+if Budget >=500:
+   views=Budget *0.33333333333
+else:
+    views=Budget *0.1
+total_views =Budget + views 
+print ("total_views: ",total_views)
