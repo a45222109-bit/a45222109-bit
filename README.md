@@ -1,18 +1,15 @@
-# Abd El Rahman Ashraf 👋
+# Abd El Rahman Ashraf
 
-High school student from Egypt, focused on software development, logic, and AI solutions. 
-
----
-
-### 🛠️ Tech Stack & Skills
-* **Languages:** Python, JavaScript
-* **AI:** Prompt Engineering & LLM workflows
-* **Tools:** Git, GitHub, OnlineGDB
-* **Languages:** Professional English
-
-### 🧠 Interests
-* **Chess:** Analyzing strategic patterns and competitive rankings.
-* **Football:** Tracking global statistics and historical data.
+Software Developer specialized in core logic, system automation, and AI infrastructure.
 
 ---
-*"Code is temporary, logic is permanent."* ⚡
+
+### 🛠️ Validated Tech Stack & Production Skills
+* **Backend Architecture:** Python development, automated scripting, and logical system design.
+* **AI & Engineering Workflows:** Advanced Prompt Engineering, LLM workflow optimization, and autonomous AI automation.
+* **Web Systems:** JavaScript development, DOM manipulation, and full-stack component integration.
+* **DevOps & Tooling:** Git version control, GitHub repository architecture, and structural debugging via OnlineGDB.
+* **Technical Communication:** Professional English infrastructure deployed for global development environments.
+
+---
+*"Good architecture is not about building components; it is about establishing correct structural logic."* ⚡
