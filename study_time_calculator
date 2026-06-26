@@ -1,0 +1,8 @@
+def calculate_study_time(hour_study,break_minutes):
+    pure_study_minutes=(hour_study*60)
+    return pure_study_minutes
+hour_study= int(input("Enter_your_total_hours_study"))
+break_minutes=int(input("Enter_your_total_minutes_break"))
+net_minutes = calculate_study_time(hour_study,break_minutes)
+print("---daily_productivity_report")
+print("pure_study_minutes : ",net_minutes)
