@@ -1,0 +1,15 @@
+import numpy as np
+
+goals_list = [3, 1, 4, 0, 2]
+goals_array = np.array(goals_list)
+
+total_goals = np.sum(goals_array)
+average_goals = np.mean(goals_array)
+
+high_scoring_matches = goals_array[goals_array > 2]
+
+print("----Team performance Report ")
+print("All Matches Goals:", goals_array)
+print("Total Matches Goals: ", total_goals)
+print("Average Matches Goals: ", average_goals)
+print("High Scoring Matches: ", high_scoring_matches)
