@@ -1,0 +1,30 @@
+import numpy as np
+
+# Define 1D arrays for server attributes
+server_ids = np.array([1001, 1002, 1003, 1004, 1005])
+power_consumption_watts = np.array([450, 120, 350, 95, 600])
+allocated_ram_gb = np.array([128, 64, 256, 32, 512])
+is_active = np.array([True, True, False, True, True])
+
+# Define engineering thresholds for filtering
+max_power_allowed = 400
+min_ram_required = 64
+
+# Compound conditional filtering (Boolean Masking)
+efficient_servers_mask = (power_consumption_watts <= max_power_allowed) & \
+                         (allocated_ram_gb >= min_ram_required) & \
+                         (is_active == True)
+
+# Extract matching data from the arrays
+selected_servers = server_ids[efficient_servers_mask]
+selected_ram = allocated_ram_gb[efficient_servers_mask]
+
+# Print the final structured report
+print("=== SERVER EFFICIENCY REPORT ===")
+print(f"Total Active Efficient Servers Found: {len(selected_servers)}")
+
+if len(selected_servers) > 0:
+    for i in range(len(selected_servers)):
+        print(f"✔ Server ID: {selected_servers[i]} | Allocated RAM: {selected_ram[i]} GB")
+else:
+    print("⚠ No servers match the strict efficiency guidelines.")
